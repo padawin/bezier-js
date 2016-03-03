@@ -1,0 +1,13 @@
+{
+  "name": "bezier",
+  "version": "0.0.1",
+  "description": "bezier",
+  "main": "index.html",
+  "private": true,
+  "author": "Ghislain Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "Butterfly-js": "github:padawin/Butterfly-js"
+  }
+}
+
